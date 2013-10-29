@@ -38,3 +38,6 @@ Feel free to use tools of your choice, but keep in mind that we cannot provide a
 3. Wire the UI elements to the updateLocation() method.
 
 4. Zip the code and a working apk and mail this to your HR contact.
+
+
+Good Luck!
