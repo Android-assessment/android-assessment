@@ -1,4 +1,4 @@
-android-assessment
+Android Assessment
 ==================
 
 # Description
@@ -26,14 +26,14 @@ Feel free to use tools of your choice, but keep in mind that we cannot provide a
 # Tasks
 
 1. Add the following UI elements:
-   * Text input field with id and title: 'latitude'.
-   * Text input field with id and title: 'longitude'.
-   * A button with id and title: 'go'.
+ * Text input field with id and title: 'latitude'.
+ * Text input field with id and title: 'longitude'.
+ * A button with id and title: 'go'.
 
 2. Implement the following method stubs:
-   * getCars()
-   * filterCarsByDistance()
-   * updateLocation()
+ * getCars()
+ * filterCarsByDistance()
+ * updateLocation()
 
 3. Wire the UI elements to the updateLocation() method.
 
